@@ -5,7 +5,7 @@ Welcome to the Arctic Frenz collection of Google Colab projects! These notebooks
 ## Table of Contents
 
 - [*Introduction to the Space Environment*, Chapter 5 - The Magnetosphere](https://github.com/davidbeard741/Google-Colab-Public/blob/main/chapter_5.ipynb)
-- *SOON* [AI/ML/Solana/etc.](https://articfrenz.com)
+- ⌛ [AI/ML/Solana/etc.](https://articfrenz.com)
 
 ***  
 ___
