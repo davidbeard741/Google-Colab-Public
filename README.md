@@ -8,6 +8,12 @@ Welcome to my collection of Google Colab projects! These notebooks cover various
 
 ## Chapter 5
 
-Dive into Chapter 5 by following the link below. This notebook offers in-depth explanations and code examples for a specific topic.
+Dive into *Introduction to the Space Environment*, Chapter 5 by following the link below.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/davidbeard741/4834d88faec49438a5564d86fd108916/chapter-5.ipynb)
+
+
+## TODO
+
+Dive into **TOPIC** by following the link below.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
