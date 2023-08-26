@@ -6,7 +6,8 @@ Welcome to my collection of Google Colab projects! These notebooks cover various
 
 - [*Introduction to the Space Environment*, Chapter 5 - The Magnetosphere](https://github.com/davidbeard741/Google-Colab-Public/blob/main/chapter_5.ipynb)
 - [*SOON*, AI/ML/Solana/etc.](https://articfrenz.com)
-
+<br>
+<br>
 ### Chapter 5 - The Magnetosphere
 
 Dive into *Introduction to the Space Environment* | Chapter 5 - The Magnetosphere by following viewing the .ipynb file in the repository or in Google Colab.  
