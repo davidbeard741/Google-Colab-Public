@@ -15,7 +15,7 @@ Dive into *Introduction to the Space Environment* | Chapter 5 - The Magnetospher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/davidbeard741/4834d88faec49438a5564d86fd108916/chapter-5.ipynb)  
 
 
----
+
 
 ## Template for MORE!
 
@@ -25,4 +25,3 @@ Dive into **TOPIC** by following the link below.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)  
 
----
