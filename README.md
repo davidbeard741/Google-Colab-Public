@@ -1,6 +1,6 @@
 # Google Colab Projects
 
-Welcome to the Arctic Frenz collection of Google Colab projects! These notebooks cover various topics and are designed to provide hands-on experience in data science, machine learning, and other areas.
+Welcome to Arctic Frenz's collection of Google Colab projects! These notebooks span a range of topics and are crafted to offer hands-on experience in data science, machine learning, and other key areas.
 
 ## Table of Contents
 
