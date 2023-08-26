@@ -6,7 +6,7 @@ Welcome to my collection of Google Colab projects! These notebooks cover various
 
 - [Chapter 5 - The Magnetosphere](#chapter-5)
 
-## Chapter 5 - The Magnetosphere
+### Chapter 5 - The Magnetosphere
 
 Dive into *Introduction to the Space Environment* | Chapter 5 - The Magnetosphere by following viewing the .ipynb file in the repository or in Google Colab.  
 
@@ -17,7 +17,14 @@ Dive into *Introduction to the Space Environment* | Chapter 5 - The Magnetospher
 
 
 
-## Template for MORE!
+
+
+
+
+
+  
+
+### Template for MORE!
 
 Dive into **TOPIC** by following the link below.  
 
