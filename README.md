@@ -12,7 +12,7 @@ ___
 
 ### Chapter 5 - The Magnetosphere
 
-Dive into *Introduction to the Space Environment* | Chapter 5 - The Magnetosphere by following viewing the .ipynb file in the repository or in Google Colab.  
+To explore Chapter 5 - The Magnetosphere in the Introduction to the Space Environment series, you can either view the .ipynb file in the repository or access it through Google Colab.
 
 [![Open In GitHub](https://github.com/davidbeard741/Google-Colab-Public/blob/main/public/GitHub-100000.svg)](https://github.com/davidbeard741/Google-Colab-Public/blob/main/chapter_5.ipynb)  
 
