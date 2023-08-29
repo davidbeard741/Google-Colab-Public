@@ -14,6 +14,6 @@ ___
 
 To explore Chapter 5 - The Magnetosphere you can either view the .ipynb file in the repository or access it through Google Colab.
 
-[![Open In GitHub](https://github.com/davidbeard741/Google-Colab-Public/blob/main/public/GitHub-100000.svg)](https://github.com/davidbeard741/Google-Colab-Public/blob/73caad023e6cc17e8412ce2723630c896c6d61c/Chapter_5.ipynb)
+- [![Open In GitHub](https://github.com/davidbeard741/Google-Colab-Public/blob/main/public/GitHub-100000.svg)](https://github.com/davidbeard741/Google-Colab-Public/blob/73caad023e6cc17e8412ce2723630c896c6d61c/Chapter_5.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/drive/1g6uRAKbzZRXz57XRfAa0IXAkVh040vmM?usp=sharing)  
+- [![Open In Colab](https:/LLcolab.research.google.com/assets / colab-badge.svg.) ](https:/Lcolab.research.google.com/drive/ 1g6uRAKbzZRXz57XRfAa0IXAkVh040vmM?usp=sharing)
